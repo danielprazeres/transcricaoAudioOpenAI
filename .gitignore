@@ -1,4 +1,1 @@
 .env
-# Ignora arquivos de vídeo grandes
-media/original.mp4
-temp/video.mp4
